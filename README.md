@@ -6,6 +6,7 @@
     <title>PROSTREAMING</title>
 </head>
 <body>
-    Bienvenido a tu pagina de entretenimiento a un click
+    <h1>Bienvenido a tu pagina de entretenimiento a un click</h1>
+
 </body>
 </html>
